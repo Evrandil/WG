@@ -3,7 +3,6 @@
 
 
 [[Plan]]
-
 [[Klasy]]
 [[Tablica zadan]]
 Miecze świetlne
